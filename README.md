@@ -1,7 +1,9 @@
 # [Codecov][1] Java Maven Example
+
+[！[codecov（https://codecov.io/gh/soloveshare/codecov/branch/master/graph/badge.svg）（https://codecov.io/gh/soloveshare/codecov）
+
 ## Guide
 ### Travis Setup
-
 Add to your `.travis.yml` file.
 ```yml
 language: java
